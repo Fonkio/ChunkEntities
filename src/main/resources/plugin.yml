@@ -1,8 +1,8 @@
-name: ChunkEntities
-version: 1.0
+name: '${project.name}'
+version: '${project.version}'
 author: Fonkio
 main: fr.fonkio.chunkentities.ChunkEntities
 commands:
-  entite:
-    description: Commande pour la carte des entites
+  entities:
+    description: Displays a map of chunks with the number of entities
     permission: chunkentites.entite
