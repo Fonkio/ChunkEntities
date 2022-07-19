@@ -1,0 +1,13 @@
+#Info (show number in orange)
+info: 20
+#Warning (show number in red)
+warning: 30
+
+# Messages
+cmd-list-title: "List of all entities on this chunk:"
+cmd-list-total: "Total: "
+cmd-list-no-entity: "No entity on this chunk"
+cmd-entities-title: "Map of chunk around you:"
+cmd-entities-warning: "Beware! Some chunks have too many entities"
+no-permission: "You have not the permission to use this command!"
+command-in-console: "You can not use this command in the server console"
