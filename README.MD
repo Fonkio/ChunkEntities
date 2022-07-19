@@ -1,18 +1,18 @@
 <h1>ChunkEntities</h1>
 
-## Commandes :
+## Commands :
 
 * /entite
-  * Afficher la carte des entités
+  * Displays a map of chunks with the number of entities
 * /entite list
-  * Affiche la liste des entités avec leur nombre (chunkentities.admin)
+  * Displays the list of entities on the chunk with their number (chunkentities.admin)
 
 ## Permissions :
 
 * chunkentites.entite
-  * Permission pour faire la commande /entite
+  * Permission for command /entite
 * chunkentities.admin
-  * Permission pour faire /entite list
+  * Permission for command /entite list
 
 
 
