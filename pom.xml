@@ -6,7 +6,7 @@
 
   <groupId>fr.fonkio</groupId>
   <artifactId>ChunkEntities</artifactId>
-  <version>1.2-snapshot</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>ChunkEntities</name>
