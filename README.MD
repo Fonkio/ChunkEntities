@@ -2,17 +2,17 @@
 
 ## Commands :
 
-* /entite
+* /entites
   * Displays a map of chunks with the number of entities
-* /entite list
+* /entites list
   * Displays the list of entities on the chunk with their number (chunkentities.admin)
 
 ## Permissions :
 
 * chunkentites.entite
-  * Permission for command /entite
+  * Permission for command /entites
 * chunkentities.admin
-  * Permission for command /entite list
+  * Permission for command /entites list
 
 
 
